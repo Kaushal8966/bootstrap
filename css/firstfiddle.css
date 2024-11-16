@@ -1,0 +1,37 @@
+.img123{
+    width: 80%;
+}
+.a{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.b{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+@media (max-width:768px){
+    .img123{
+        width: 100px;
+    }
+}
+.back{
+    background-image: url(https://pn-paul.netlify.app/image/img%20background.jpg);
+    width: 100%;
+}
+.h1{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+.ex{
+    padding-top: 20px;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
