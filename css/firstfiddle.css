@@ -17,7 +17,7 @@
 }
 @media (max-width:768px){
     .img123{
-        width: 100px;
+        width: 100%;
     }
 }
 .back{
@@ -34,4 +34,19 @@
     padding-top: 20px;
     font-family: 'prague';
     letter-spacing: 3px;
+}
+.pp{
+    background-image: url(https://pn-paul.netlify.app/image/ffback2.png);
+    width: 100%;
+}
+.ll{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+.ppp{
+    padding-top: 20px;
+    letter-spacing: 3px;
+    font-family: 'prague';
 }
