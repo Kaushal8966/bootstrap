@@ -20,9 +20,16 @@
         width: 100%;
     }
 }
+.navbar{
+    background-position: fixed;
+    z-index: -1;
+}
 .back{
     background-image: url(https://pn-paul.netlify.app/image/img%20background.jpg);
     width: 100%;
+}
+.Q{
+    border: medium;
 }
 .h1{
     line-height: 35px;
@@ -50,3 +57,12 @@
     letter-spacing: 3px;
     font-family: 'prague';
 }
+.weblogo{
+    width: 65px;
+            }
+.nav-link{
+    color: white;
+            }
+  .nav-link:hover{
+    background: orange;
+  }          
